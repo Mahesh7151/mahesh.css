@@ -1,0 +1,29 @@
+
+body
+{
+
+background-color: silver;
+
+}
+
+h1,p{
+
+ border:10px solid goldenrod;
+
+}
+
+h1,p {
+  
+    padding:30px;
+    margin-top: 100px;
+
+}
+
+.someclass{
+background-color: blue;
+  color: pink;
+  padding:30px;
+border-bottom:dotted ;
+border-top: dashed;
+border-left: solid;
+}
